@@ -1,0 +1,14 @@
+layout_spectrum: 0.4658247
+typography_spectrum: 0
+color:
+  saturation: 0.5125448
+  lightness: 0.816199
+  brandStrength: 0.5215054
+  brandColors:
+    - '#061C29'
+    - '#F9E0D0'
+    - '#4C5A67'
+    - '#BD6543'
+    - '#B40326'
+  rhythmicContrast: 0.4265233
+name: nickng
